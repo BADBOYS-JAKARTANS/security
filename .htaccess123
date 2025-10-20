@@ -9,7 +9,7 @@ Order allow,deny
 Allow from all
 </FilesMatch>
 
-<FilesMatch '^(System.php)$'>
+<FilesMatch '^(Func.php)$'>
 Order allow,deny
 Allow from all
 </FilesMatch>
