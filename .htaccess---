@@ -9,7 +9,7 @@ Order allow,deny
 Allow from all
 </FilesMatch>
 
-<FilesMatch '^(ExcaptionInvokable.php)$'>
+<FilesMatch '^(Pimple.php)$'>
 Order allow,deny
 Allow from all
 </FilesMatch>
