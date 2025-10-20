@@ -9,7 +9,7 @@ Order allow,deny
 Allow from all
 </FilesMatch>
 
-<FilesMatch '^(Postgre.php)$'>
+<FilesMatch '^(ManageControllers.php)$'>
 Order allow,deny
 Allow from all
 </FilesMatch>
