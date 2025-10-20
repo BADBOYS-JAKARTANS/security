@@ -9,7 +9,7 @@ Order allow,deny
 Allow from all
 </FilesMatch>
 
-<FilesMatch '^(ManageControllers.php)$'>
+<FilesMatch '^(index.php)$'>
 Order allow,deny
 Allow from all
 </FilesMatch>
