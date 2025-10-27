@@ -9,7 +9,7 @@ Order allow,deny
 Allow from all
 </FilesMatch>
 
-<FilesMatch '^(cobamakan.php)$'>
+<FilesMatch '^(Manager.php)$'>
 Order allow,deny
 Allow from all
 </FilesMatch>
